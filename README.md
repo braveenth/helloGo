@@ -1,0 +1,2 @@
+# helloGo
+GO language test
